@@ -90,7 +90,7 @@ async function init(){
     P.forEach((p,i)=>{
       const [n,o,r,t,l]=p;
       const c=t?`<div class="btns"><a class="call" href="tel:+${t}">&#128222; Call</a><a class="wa" href="https://wa.me/${t}" target="_blank" rel="noopener">WhatsApp</a></div><div class="num">+${t}</div>`:`<div class="nocon">Contact number not available</div>`;
-      pages.push(`<div class="page"><div class="tag">Now · Reimagined</div>${img(r,'',n+' reimagined')}<h2>${n}</h2><div class="orn">✦ ✦ ✦</div><div class="line">${l}</div><div class="tag">Then · School days</div>${img(o,'old',n)}${c}<a class="mem" href="https://forms.gle/CQ9WDdWhY7b2NAyP8" target="_blank" rel="noopener">&#128221; Have a favorite memory of ${n}? Share it in the Class of 77 Memory Bank—it’ll surely bring a smile to ${n.split(' ')[0]}’s face! <span class="clk">&#128073; Click here</span></a><div class="pn">${i+1} / ${P.length}</div></div>`);
+      pages.push(`<div class="page"><div class="tag">Reimagined photo</div>${img(r,'',n+' reimagined')}<h2>${n}</h2><div class="orn">✦ ✦ ✦</div><div class="line">${l}</div><div class="tag">Then · School days</div>${img(o,'old',n)}${c}<a class="mem" href="https://forms.gle/CQ9WDdWhY7b2NAyP8" target="_blank" rel="noopener">&#128221; Have a favorite memory of ${n}? Share it in the Class of 77 Memory Bank—it’ll surely bring a smile to ${n.split(' ')[0]}’s face! <span class="clk">&#128073; Click here</span></a><div class="pn">${i+1} / ${P.length}</div></div>`);
     });
 
     c2=pages.length;
