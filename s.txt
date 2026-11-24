@@ -1,0 +1,18 @@
+[
+["Fr Joseph Karumathy", "1QWVbUufkxF685eIrcu1Le5S5G8lgqQOv", "Your guidance lit the path we still walk today."],
+["Fr Arackal", "1pg91gcIAbVwKpKhTgWdzuyVU5Eqzx0V3", "A teacher whose patience and kindness we will never forget."],
+["Fr Chandy", "1bUiZ0y5kYSJli6dxm6NjFvRBvO1sWoBk", "Thank you for believing in us long before we did."],
+["Fr Thalanani", "1cl2DAZeq_Z17l5L8C88W8AjD4KNtHDkx", "Your lessons reached far beyond the classroom."],
+["Sr Baseleous", "185GLIkfTIjZCwZJwsAt2b0CUVp_Rm64L", "With gratitude for your gentle wisdom and steady care."],
+["Sr Monica", "1fDCPHSEQy2HVuzzn4IKBT81_LnPXzMNC", "You taught us not just subjects, but how to live."],
+["Mr A J Joseph", "1ccVEzy0zuk6-W5tWn0UEwdSgqJQrPKD2", "Your warm presence made school feel like home."],
+["Ms Annakkutty", "1V2lYFXq1VrF3AlpFytn13UgOvHU4_mg9", "A guiding light in our growing-up years."],
+["Mr AJ Michael", "1dV3Fb3uhSsfCbdJabnE8Iu2ZRKQzrQlZ", "Your guidance lit the path we still walk today."],
+["Mr MV Thomas", "1q89T8uZz7Lv9RqWkIy887d_1jLMnPIA7", "A teacher whose patience and kindness we will never forget."],
+["Mr PL Mathew", "1FsaJj6otnT35D0xNl-SO5W9Erv_q_X_5", "Thank you for believing in us long before we did."],
+["Mr PT Thomas", "1XW1hTn9XqBlXjsdFuhWJhcV5WndXJ3ul", "Your lessons reached far beyond the classroom."],
+["Mr Jose Polackal", "13D_3kMMGMGlOnZtc-822Vno-5We6AG9v", "With gratitude for your gentle wisdom and steady care."],
+["Mr Joseph PC", "1b9qYYqtFKo2JHuM0BgF1P1LlDpNgmm_U", "You taught us not just subjects, but how to live."],
+["Ms Lila Jacob", "16TBjZ2bS8r87b5RYv5Ap16jmENLl748t", "Your warm presence made school feel like home."],
+["Mr Gopi", "1qBpU8DZKLZj4bmmEgBEsQA5bYKNqNe0a", "More than a helping hand, he was the steady heartbeat of our school hallways."]
+]
